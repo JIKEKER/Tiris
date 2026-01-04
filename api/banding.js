@@ -8,7 +8,7 @@ const CONFIG = {
   SMTP_SECURE: true,
   DEFAULT_RECIPIENT: 'smb@support.whatsapp.com',
   LOG_FILE: __dirname + '/../email_logs.txt',
-  VALID_KEYS: ['adminv', 'totoy', 'jojork', 'bebas', 'iball', 'anji', 'ALOK', 'putz', 'peler', 'Lz666Era', 'BALMOND'] // 🔐 daftar key yang boleh
+  VALID_KEYS: ['adminv'] // 🔐 daftar key yang boleh
 }
 
 // ====== SISTEM LIMIT API ======
